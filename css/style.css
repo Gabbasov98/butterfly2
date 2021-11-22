@@ -375,7 +375,6 @@ i {
     padding: 0 7px;
   }
   .main__num::before {
-    width: 30px;
     height: 2px;
   }
   .main__desc {
